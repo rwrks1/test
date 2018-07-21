@@ -1,0 +1,4 @@
+Task list
+
+Obtain variables
+Define variables
